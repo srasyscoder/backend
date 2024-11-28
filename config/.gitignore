@@ -1,0 +1,29 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+/backend/.env
+
+# Build output
+dist
+build
+
+# Dependency directories
+jspm_packages/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# npm package-lock file (optional, if you're using yarn)
+package-lock.json
